@@ -37,3 +37,6 @@ Going Through Advanced Steps
 - Testing with CodeIgniter
 - Performance Boosters (PHP FPM, RoadRunner, etc)
 - What is Spark and How to Use it?
+- How to create multiple database connection with CodeIgniter?
+- How to set Microservices for CodeIgniter?
+- How to use ElasticSearch with CodeIgniter?
