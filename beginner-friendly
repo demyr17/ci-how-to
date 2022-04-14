@@ -1,0 +1,43 @@
+Beginner Friendly
+
+- What Is A Framework?
+You can find frameworks for any kind of coding languages such as PHP, Javascript, Python etc. 
+Using pure PHP or Javascript or any other language might be tiring. Because you need to set up the same basic environment for every customer you have or for any project you want to work on. 
+This is both boring and tiring. Plus, you need to set a routing system for urls, you also need to take care of security issues. 
+So, developers in the world create frameworks for the language(s) they love and these frameworks make everything easier. You will find a ready framework on which you can build your application. Almost all basic things are already set. 
+
+Coding with pure language is like building your own house from the ground but framework is like it has been constructed and now you can decorate inside as you wish!  
+
+- And CodeIgniter? What should I know before I start using CodeIgniter?
+CodeIgniter is one of the PHP frameworks. So, you must know basic PHP at first. Please try to learn some basic PHP first such as arrays, if conditionals etc. Additionaly, any modern framework works on OOP understanding. Please have a look at PHP OOP. Lastly, modern coding world also work on MVC structure. It means Model (for database works), View(the pages visitors see), Controller (is the brain or bridge between Model and the View). If you do not follow MVC pattern, then your codes will be in old style, which is a terrible mistake for modern world. It is called spaghetti code. 
+
+Modern world websites or projects require so many features and it means thousands of lines of code and soo many functions in different files. I believe, seperating them into folders/files according to their purpose is really clean way of working. That's why MVC structure will be good for you.
+
+- Basic needs for CodeIgniter?
+A computer. Operating system doesn’t matter but I will work on a Windows.
+Since our computers are not servers like any hosting provider we need to set up an Apache server and mysql databse on our computer for PHP. But you’re lucky there are XAMPP or WAMP or Laragon options in the market. They are free. They do the same work but I will go on with XAMPP. Please download it and set it up. You can find lots of videos for this. Do not forget, it will ask you some preferences while installing. No need for most of them.
+
+- How to set it up?
+This is why we love CodeIgniter most. Because it is easy. 
+You have got 2 options. The first option is manual and the second one is via composer. 
+To set it up manually you need to download it from our website. Unzip the folders and put them in your htdocs under xampp folder in XAMP and name your project.
+
+Composer. It is a great helper for PHP. Later, you can set up so many additional things with it. You can also update your CodeIgniter project with it. I will go on with manual but let me show you how to work with Composer: 
+
+...
+
+- Setting Up Something Extra
+Well, there is a very special file where you should change a line: base_url in under config folder. 
+A base_url is the url of your site. So, in the future if you want to add a link to your text, for example: read-more.php, you can easily use base_url:
+<a href="<?php echo $base_url('/about-us');?>">Read More</a>
+Our base url is: http://www.mywebsite.com/
+On your local computer it can be: http://localhost/my-folder/my-project-name/
+
+Do not forget to add the slash at the end!
+
+- What is MVC – First Examples
+- How to create a blog with CodeIgniter (Without CRUD)
+- How to use Routes ?
+- How to update CodeIgniter?
+
+etc.
