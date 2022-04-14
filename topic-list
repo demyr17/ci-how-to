@@ -1,0 +1,39 @@
+This is Beginner Friendly Topics and Some Sample Texts:
+
+TOPIC LIST:
+
+Beginner Friendly
+- What is a framework?
+- What should I know before I start using CodeIgniter?
+- Basic needs for CodeIgniter?
+- How to set it up?
+- Setting Up Something Extra (public html, removing index in the url.)
+- What is MVC – First Examples
+- How to create a blog layout with CodeIgniter (Without CRUD)
+- How to add css/js = Public folder
+- How to use Routes ?
+- How to update CodeIgniter?
+
+
+Middle Level
+- How to design a simple CMS with CodeIgniter? (For our blog tutorial)
+- How to work with Database (how to CRUD operations).
+- Security warnings - php password encrypt., validation
+- Using Filters
+- Using Language Files
+- Using Helpers
+- Using Libraries
+- How to upload an Image or a PDF document?
+- How to delete a blog post or image or images?
+- How to use Javascript with CodeIgniter (Jquery ajax,  vue.js etc) ?
+- How to work with JSON data with CodeIgniter?
+- How to Paginate my Blog ?
+- What is Composer and how to use it?
+- How to send Email with CodeIgniter?
+
+Going Through Advanced Steps
+- Entities? Why do we need them?
+- API
+- Testing with CodeIgniter
+- Performance Boosters (PHP FPM, RoadRunner, etc)
+- What is Spark and How to Use it?
