@@ -19,6 +19,7 @@ Middle Level
 - How to design a simple CMS with CodeIgniter? (For our blog tutorial)
 - How to work with Database (how to CRUD operations).
 - Security warnings - php password encrypt., validation
+- Using CSRF
 - Using Filters
 - Using Language Files
 - Using Helpers
